@@ -1,5 +1,6 @@
 #python -m pytest -s training/ex10.py
 
+
 class TestNumberOfChars():
     def test_number_of_chars(self):
         phrase = input("Set a phrase: ")
